@@ -1,0 +1,94 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 120%;
+  background: #F8F8FF;
+}
+
+.header {
+  width: 52%;
+  margin: 50px auto 0px;
+  color: white
+  background:blue;
+  text-align: left;
+  border: 2px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+form, .content {
+	width: 50%;
+	margin: 10px auto;
+	padding: 20px;
+	background:PowderBlue;
+//
+	border-radius: 0px 0px 10px 10px;
+	font-size: medium;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 50px;
+  width: 90%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid gray;
+}
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background:OrangeRed;
+	border: none;
+	width: 93%;
+	border-radius: 8px;
+	text-align: center;
+	
+
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+.input-group button {
+	font-size: 120%;
+
+}
+.large {
+	font-size: large;
+}
+.content form {
+	font-size: 10px;
+}
+.content form {
+	font-size: 12px;
+}
+.user {
+	font-size: 18px;
+}
+.content strong {
+	font-size: 14px;
+	font-style: italic;
+	color: #00C;
+}
